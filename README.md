@@ -1,11 +1,11 @@
 
 # Hi there im aliteymouri
 ## 🌐 Socials:
-  <a href="https://linkedin.com/in/aliteymouri_dev">
+  <a href="https://linkedin.com/in/Aliteymourii">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://linkedin.com/in/Aliteymourii">
-    <img src="https://skillicons.dev/icons?i=email&theme=dark" />
+  <a href="https://instagram.com/aliteymouri_dev">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   
 ## Daily Used Technologies:
