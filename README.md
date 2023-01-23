@@ -9,4 +9,4 @@
   </a>
   
 ## Daily Used Technologies:
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,django,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,bootstrap,jquery,django,git,github,gitlab)](https://skillicons.dev)
