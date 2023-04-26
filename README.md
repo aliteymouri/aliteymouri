@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/Aliteymourii">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://instagram.com/aliteymouri_dev">
+  <a href="https://instagram.com/_aliteymourii">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   
