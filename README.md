@@ -1,6 +1,6 @@
 <p>
-  <a href="https://github.com/aliteymouri"><img src="https://img.shields.io/github/followers/thepylot.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://instagram.com/_aliteymourii"><img src="https://img.shields.io/twitter/follow/thepylot?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://github.com/aliteymouri"><img src="https://img.shields.io/github/followers/aliteymouri.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://instagram.com/_aliteymourii"><img src="https://img.shields.io/instagram/follow/_aliteymourii?label=Instagram&style=social" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/Aliteymourii"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 <table cellpadding="0">
