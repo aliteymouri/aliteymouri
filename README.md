@@ -14,3 +14,16 @@
   </tr>
 </table>
 
+# **languages and tools:**  
+<div align="center">
+<!-- START: PROGRAMMING LANGUAGES -->
+  
+<code><img height="40" src="@/../assests/img/tools/git.png"></code>
+<code><img height="40" src="@/../assests/img/tools/mysql.png"></code>
+<code><img height="40" src="@/../assests/img/tools/python.png"></code>
+<code><img height="40" src="@/../assests/img/tools/javascript.png"></code>
+=
+#
+<!-- END: PROGRAMMING LANGUAGES -->
+</div>
+
